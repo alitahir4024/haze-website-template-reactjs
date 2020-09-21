@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/haze-website-template-reactjs/static/css/main.1d9d053a.chunk.css",
+    "main.js": "/haze-website-template-reactjs/static/js/main.49891825.chunk.js",
+    "main.js.map": "/haze-website-template-reactjs/static/js/main.49891825.chunk.js.map",
+    "runtime-main.js": "/haze-website-template-reactjs/static/js/runtime-main.6c7674e3.js",
+    "runtime-main.js.map": "/haze-website-template-reactjs/static/js/runtime-main.6c7674e3.js.map",
+    "static/js/2.e9e9a0da.chunk.js": "/haze-website-template-reactjs/static/js/2.e9e9a0da.chunk.js",
+    "static/js/2.e9e9a0da.chunk.js.map": "/haze-website-template-reactjs/static/js/2.e9e9a0da.chunk.js.map",
+    "index.html": "/haze-website-template-reactjs/index.html",
+    "precache-manifest.8e49733481dd656acedfb2abd471d928.js": "/haze-website-template-reactjs/precache-manifest.8e49733481dd656acedfb2abd471d928.js",
+    "service-worker.js": "/haze-website-template-reactjs/service-worker.js",
+    "static/css/main.1d9d053a.chunk.css.map": "/haze-website-template-reactjs/static/css/main.1d9d053a.chunk.css.map",
+    "static/js/2.e9e9a0da.chunk.js.LICENSE.txt": "/haze-website-template-reactjs/static/js/2.e9e9a0da.chunk.js.LICENSE.txt",
+    "static/media/about-us.jpg": "/haze-website-template-reactjs/static/media/about-us.f53f90b1.jpg",
+    "static/media/style.css": "/haze-website-template-reactjs/static/media/hero-bg.6d009055.jpg",
+    "static/media/member-1.jpg": "/haze-website-template-reactjs/static/media/member-1.d878b635.jpg",
+    "static/media/member-2.jpg": "/haze-website-template-reactjs/static/media/member-2.a808b7c8.jpg",
+    "static/media/member-3.jpg": "/haze-website-template-reactjs/static/media/member-3.79020031.jpg",
+    "static/media/portfolio-1.jpg": "/haze-website-template-reactjs/static/media/portfolio-1.145078dd.jpg",
+    "static/media/portfolio-2.jpg": "/haze-website-template-reactjs/static/media/portfolio-2.cd1042b9.jpg",
+    "static/media/portfolio-3.jpg": "/haze-website-template-reactjs/static/media/portfolio-3.bb9ca2d8.jpg",
+    "static/media/portfolio-4.jpg": "/haze-website-template-reactjs/static/media/portfolio-4.9b29b092.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c7674e3.js",
+    "static/js/2.e9e9a0da.chunk.js",
+    "static/css/main.1d9d053a.chunk.css",
+    "static/js/main.49891825.chunk.js"
+  ]
+}

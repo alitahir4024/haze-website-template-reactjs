@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ff04d68778e31fb2d5ae33fd79cdbb43",
+    "revision": "2c744d85243224c0c5a02989809534af",
     "url": "/haze-website-template-reactjs/index.html"
   },
   {

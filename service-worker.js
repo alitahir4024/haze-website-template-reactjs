@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/haze-website-template-reactjs/precache-manifest.8e49733481dd656acedfb2abd471d928.js"
+  "/haze-website-template-reactjs/precache-manifest.41537b06c3988188f76684728516e589.js"
 );
 
 self.addEventListener('message', (event) => {

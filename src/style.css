@@ -1,0 +1,227 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    border: none;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+:root {
+    font-size: 62.5%;
+}
+
+.navbar-brand {
+    font-size: 4rem !important;
+    font-weight: 600;
+}
+
+.navbar-toggler {
+    font-size: 2rem;
+}
+
+.navbar-brand span {
+    color: #E32879;
+}
+
+.nav-link {
+    font-size: 1.8rem !important;
+    color: white !important;
+    font-weight: 600;
+}
+
+.nav-link.active {
+    color: #E32879 !important;
+}
+
+.HeroCont {
+    min-height: 120vh;
+    background-image: url("./img/hero-bg.jpg") !important;
+    background-position: center;
+    background-size: cover;
+}
+
+.HeroCont h3,
+.AboutUs h3 {
+    font-size: 1.8rem;
+    font-weight: 600;
+    color: #E32879;
+}
+
+.HeroCont h1,
+.AboutUs h1 {
+    font-size: 6rem;
+    font-weight: 700;
+    color: white;
+}
+
+.HeroCont p,
+.AboutUs p {
+    font-size: 1.7rem;
+    color: white;
+}
+
+.HeroCont button,
+.AboutUs button {
+    background-color: #E32879;
+    color: white;
+    font-size: 1.7rem;
+    font-weight: 700;
+    padding: 1.2rem 3rem 1.3rem;
+}
+
+.AboutUs {
+    background-color: #191919;
+}
+
+.AboutUs h3 {
+    font-size: 1.6rem;
+}
+
+.AboutUs h1 {
+    font-size: 5rem;
+}
+
+.AboutUs p {
+    font-size: 1.7rem;
+    color: #A49F91;
+}
+
+.AboutUs button {
+    font-size: 1.7rem;
+}
+
+.services {
+    background-color: #191919 !important;
+}
+
+.portfolio>.row:nth-child(1) h1,
+.services>.row:nth-child(1) h1,
+.team>.row:nth-child(1) h1 {
+    font-size: 50px !important;
+    color: white;
+}
+
+.services>.row:nth-child(2) h1,
+.portfolio>.row:nth-child(2) h1 {
+    font-size: 25px !important;
+    color: white;
+}
+
+.services h2,
+.numberSpeak h2,
+.team h2,
+.Footer h2,
+.portfolio h2 {
+    color: #E32879;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+
+.services p,
+.numberSpeak p,
+.portfolio p {
+    font-size: 18px;
+    color: #A49F91;
+}
+
+.services>.row:nth-child(2) {
+    padding-bottom: 55px !important;
+}
+
+.services>.row:nth-child(2) i {
+    color: #E32879;
+    font-size: 30px;
+}
+
+.services>.row:nth-child(2)>div,
+.portfolio {
+    background-color: #222222 !important;
+}
+
+.numberSpeak h1 {
+    color: white;
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.numberSpeak button {
+    background-color: #E32879;
+    font-size: 18px;
+    color: white;
+}
+
+.numberSpeak h3 {
+    font-size: 30px;
+    color: white;
+}
+
+.numberSpeak div:nth-child(2) h1 {
+    color: #E32879;
+}
+
+.numberSpeak {
+    background-color: #222222;
+}
+
+.team {
+    background-color: #191919 !important;
+}
+
+.Footer {
+    height: auto;
+    width: 100%;
+    padding: 70px 0 20px 0;
+    background: #222222;
+    position: relative;
+}
+
+.Footer p {
+    color: #fff;
+    font-size: 16px;
+}
+
+.Footer li a {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.6;
+    text-transform: capitalize;
+}
+
+.Footer h3 {
+    font-size: 20px !important;
+    font-weight: bold;
+    margin-bottom: 25px;
+    color: #E32879;
+    text-transform: uppercase;
+    text-shadow: 0 2px 5px rgba(0, 0, 0, 0.4);
+}
+
+#myBtn {
+    display: none;
+    position: fixed;
+    right: 40px;
+    bottom: 20px;
+    border: none;
+    background: #00abff;
+    color: #fff;
+    z-index: 99;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#myBtn:hover {
+    background: #606060;
+}
+
+@media(max-width: 768px) {
+    .Footer-id:nth-child(2) {
+        text-align: left !important;
+    }
+    .Footer-id {
+        margin: 30px 0;
+    }
+}
